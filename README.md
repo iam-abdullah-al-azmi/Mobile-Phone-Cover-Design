@@ -1,13 +1,10 @@
-# Concept Design Prototype of a Mobile Phone Cover
+# A Commercial-Inspired Protective Cover for a Mobile Phone
 
 ## Summary
 
----
+A mobile phone is carried everywhere and is exposed to drops, scratches, and daily wear, which is why most people use a cover on it. Seeing the wide variety of covers made for phones and for the iPad inspired me to understand how such a product is designed. I tried to mimic the design of commercial covers by modeling a cover around my own mobile, the Samsung Galaxy J6, and I followed the same approach that I used for my iPad Pro M2 cover.
 
-## Design Motivation
-
-| Name | Image |
-| :--: | :---: |
+The cover is a slim shell with rounded corners and a raised lip around the edge, which keeps the screen slightly above a flat surface when the phone is placed face down. Cutouts for the side buttons, the bottom port, and the camera area keep the phone fully usable without taking the cover off. The main challenge was to match the smooth curves of the phone body and to position every opening accurately, since a small error can block a button or leave a gap. The cover was developed using a computational tool, SolidWorks, and the views below show the finished shape from every side, along with a section view of the wall. This prototype is a base concept design that can be improved into a manufacturable product in the future.
 
 ---
 
@@ -26,11 +23,31 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |     Name      |
+| :-: | :-----------: |
+| 01  | Surface Sweep |
+| 02  | Surface Plane |
+| 03  | Surface Knit  |
+| 04  | Surface Trim  |
+| 05  |    Fillet     |
+| 06  |    Thicken    |
+| 07  |    Sketch     |
+
+---
+
+## Image of the Tool Used
+
+![Mobile Phone Cover Tool Used](images/mobile_phone_cover_tool_used.png)
 
 ---
 
