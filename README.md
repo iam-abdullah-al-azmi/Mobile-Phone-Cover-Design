@@ -45,7 +45,7 @@ The cover is a slim shell with rounded corners and a raised lip around the edge,
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![Mobile Phone Cover Tool Used](images/mobile_phone_cover_tool_used.png)
 
