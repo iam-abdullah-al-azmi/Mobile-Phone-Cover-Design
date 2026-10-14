@@ -31,7 +31,7 @@ The cover is a slim shell with rounded corners and a raised lip around the edge,
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |     Name      |
 | :-: | :-----------: |
@@ -45,9 +45,9 @@ The cover is a slim shell with rounded corners and a raised lip around the edge,
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
-![Mobile Phone Cover Tool Used](images/mobile_phone_cover_tool_used.png)
+![Mobile Phone Cover Feature Tree](images/mobile_phone_cover_feature_tree.png)
 
 ---
 
